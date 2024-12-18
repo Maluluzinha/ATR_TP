@@ -1,8 +1,9 @@
 ﻿cl : linha de comando  warning D9035: opção 'Gm' foi preterida e será removida em uma versão futura
   TesteArquivo.cpp
-D:\DadosUsuario\Downloads\TrabalhoATR\TesteArquivo\TesteArquivo.cpp(98,9): warning C4101: 'nTecla': variável local não referenciada
-D:\DadosUsuario\Downloads\TrabalhoATR\TesteArquivo\TesteArquivo.cpp(151,11): warning C4477: 'printf': a cadeia de formato '%d' requer um argumento do tipo 'int', mas um argumento variadic 1 tem o tipo 'LPVOID'
-D:\DadosUsuario\Downloads\TrabalhoATR\TesteArquivo\TesteArquivo.cpp(154,11): warning C4477: 'printf': a cadeia de formato '%d' requer um argumento do tipo 'int', mas um argumento variadic 1 tem o tipo 'LPVOID'
-D:\DadosUsuario\Downloads\TrabalhoATR\TesteArquivo\TesteArquivo.cpp(159,11): warning C4477: 'printf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 1 tem o tipo 'std::string'
-D:\DadosUsuario\Downloads\TrabalhoATR\TesteArquivo\TesteArquivo.cpp(167,11): warning C4477: 'printf': a cadeia de formato '%d' requer um argumento do tipo 'int', mas um argumento variadic 1 tem o tipo 'LPVOID'
+D:\DadosUsuario\Downloads\TrabalhoATR\TesteArquivo\TesteArquivo.cpp(208,10): warning C4477: 'printf': a cadeia de formato '%d' requer um argumento do tipo 'int', mas um argumento variadic 1 tem o tipo 'LPVOID'
+D:\DadosUsuario\Downloads\TrabalhoATR\TesteArquivo\TesteArquivo.cpp(213,11): warning C4477: 'printf': a cadeia de formato '%d' requer um argumento do tipo 'int', mas um argumento variadic 1 tem o tipo 'LPVOID'
+D:\DadosUsuario\Downloads\TrabalhoATR\TesteArquivo\TesteArquivo.cpp(220,12): warning C4477: 'printf': a cadeia de formato '%d' requer um argumento do tipo 'int', mas um argumento variadic 1 tem o tipo 'LPVOID'
+D:\DadosUsuario\Downloads\TrabalhoATR\TesteArquivo\TesteArquivo.cpp(225,12): warning C4477: 'printf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 1 tem o tipo 'std::string'
+D:\DadosUsuario\Downloads\TrabalhoATR\TesteArquivo\TesteArquivo.cpp(233,12): warning C4477: 'printf': a cadeia de formato '%d' requer um argumento do tipo 'int', mas um argumento variadic 1 tem o tipo 'LPVOID'
+D:\DadosUsuario\Downloads\TrabalhoATR\TesteArquivo\TesteArquivo.cpp(241,9): warning C4477: 'printf': a cadeia de formato '%d' requer um argumento do tipo 'int', mas um argumento variadic 1 tem o tipo 'LPVOID'
   Prog65Server.vcxproj -> D:\DadosUsuario\Downloads\TrabalhoATR\TesteArquivo\Debug\Prog65Server.exe
