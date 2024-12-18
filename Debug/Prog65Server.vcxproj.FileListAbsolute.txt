@@ -1,0 +1,2 @@
+D:\DadosUsuario\Downloads\programas_livro_ProgConcorrenteAmbienteWindows\Capitulo6\Prog65Server\Debug\Prog65Server.exe
+D:\DadosUsuario\Downloads\TrabalhoATR\TesteArquivo\Debug\Prog65Server.exe
